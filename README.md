@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr.Aaki</h1>
 <h3 align="center">Red Teamer & Black Hat Hacker</h3>
 
-Absolutely! Here's a **modern, single-block `README.md` file** written cleanly in Markdown, using emoji, minimal sections, and developer-friendly formatting — perfect for GitHub:
-
-````markdown
 # 📱 Phone Number Location Tracker
 
 A lightweight Python tool to locate phone numbers using **carrier info**, **geolocation**, and generate a **live map**. Built by [Hacker Computer School](https://www.hackercomputerschool.com) for educational use.
