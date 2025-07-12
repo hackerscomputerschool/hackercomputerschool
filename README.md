@@ -1,6 +1,68 @@
 <h1 align="center">Hi 👋, I'm Mr.Aaki</h1>
 <h3 align="center">Red Teamer & Black Hat Hacker</h3>
 
+Absolutely! Here's a **modern, single-block `README.md` file** written cleanly in Markdown, using emoji, minimal sections, and developer-friendly formatting — perfect for GitHub:
+
+````markdown
+# 📱 Phone Number Location Tracker
+
+A lightweight Python tool to locate phone numbers using **carrier info**, **geolocation**, and generate a **live map**. Built by [Hacker Computer School](https://www.hackercomputerschool.com) for educational use.
+
+---
+
+## ⚙️ How to Use
+
+### 🔧 Install Requirements
+```bash
+pip install phonenumbers folium opencage
+# use pip3 if Python 2 is installed alongside
+````
+
+### ▶️ Run the Script
+
+```bash
+python Track_Phone_Number.py
+```
+
+Enter phone number with country code (e.g., `+919876543210`)
+
+---
+
+## ✅ Example Output
+
+```text
+🔍 Results for +917988285508:
+📍 Location: Mumbai, India
+📡 Carrier: Airtel
+🌎 Coordinates: 19.0760, 72.8777
+✅ Map saved as: location_7988285508.html
+```
+
+🗺️ Open the generated HTML file to see the number's approximate location on a map.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational purposes only**.
+Do not use this tool for unethical or illegal tracking. Always obtain consent.
+
+---
+
+## 👨‍💻 Developed by Hacker Computer School
+
+🌐 [www.hackercomputerschool.com](https://www.hackercomputerschool.com)
+📧 [info@hackercomputerschool.com](mailto:info@hackercomputerschool.com)
+📞 +91- 818181-6323
+
+```
+
+---
+
+✅ This format is compact, readable, GitHub-optimized, and includes everything users need in one glance. Let me know if you want to auto-generate the HTML map filename dynamically or add GitHub repo badges!
+```
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerscomputerschool&label=Profile%20views&color=0e75b6&style=flat" alt="hackerscomputerschool" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackerscomputerschool" alt="hackerscomputerschool" /></a> </p>
